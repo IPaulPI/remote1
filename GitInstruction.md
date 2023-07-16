@@ -1,3 +1,4 @@
+![logo](git_logo.jpeg)
 # Работа с Git
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду `Git version`.
@@ -53,3 +54,4 @@ Git checkout hash
 ```
 Git checkout master
 ```
+
