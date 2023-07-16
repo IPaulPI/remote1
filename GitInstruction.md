@@ -55,3 +55,4 @@ Git checkout hash
 Git checkout master
 ```
 
+## 8. Игнорирование файлов
